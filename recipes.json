@@ -1,0 +1,18 @@
+{
+    "Pizza": {
+        "dauer": "45min",
+        "name": "Pizza",
+        "Beschreibung": "Leckere, schnelle Pizza im NYC style",
+        "link": "https://instagram.com",
+        "platform": "instagram",
+        "zutaten": ["Mehl", "Tomaten", "Mozzarella", "Salz", "Pfeffer", "Oliven Öl", "Wasser", "Hefe"],
+        "schritte": [
+            "Mische die Hefe mit lauwarmem wasser und warte 5min. Wenn sich Blasen gebildet haben, mache weiter, wenn nicht ist deine Hefe tot und du musst eine neue Packung verwenden.",
+            "Mische das Hefewasser mit dem Mehl und etwas Öl, lasse den Teig 30 Minuten ruhen.",
+            "Heize den Ofen auf 300°C vor.",
+            "Rolle den teig auf einem mit mehl bestreuten Tisch aus und schmier die Tomatensoße drauf aus.",
+            "Bestreu die Pizza mit Mozzarella",
+            "Backe die Pizza für 7min"
+        ]
+    }
+}
